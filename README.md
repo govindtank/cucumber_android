@@ -6,6 +6,20 @@ This is a example project to automated android native app.
 2. Eclipse
 3. Docker
 
+### Athena installation Steps
+1. Clone athena repo to your home directory: <br>
+```$ git clone https://github.com/athena-oss/athena.git``` <br>
+``` - go to athena root dir using terminal (ex. cd athena/)``` <br>
+``` execute ./athena init ``` <br>
+``` - Follow the ATHENA instruction to make ATHENA global``` <br>
+``` - Restart your terminal ``` <br>
+<b>OR Add following to bash_profile</b><br>
+```a. $ vi ~/.bash_profile``` (Mac User) , ```vi ~/.bashrc``` (Linux User) <br>
+```b. add the following at the end of line``` <br>
+      ```export ATHENA_HOME=/<installation location>/athena``` <br>
+      ```export PATH=${PATH}:$ATHENA_HOME```
+2. execute again ```$ athena init``` under athena project to check if athena is properly installed
+
 <b>Steps To Run Example Tests:</b>
 Note: Start the genymotion virtual device (Samsung Galaxy S6)
 1. Clone this repository to your home directory
