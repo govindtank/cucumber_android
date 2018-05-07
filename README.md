@@ -1,4 +1,5 @@
 # Cucumber Android Example Tests
+This is a example project to automated android native app. 
 
 ### Pre-requisite/s software installed
 1. Git
