@@ -1,4 +1,4 @@
-# Cucumber Android Example Tests
+# Cucumber Android Example Project
 This is a example project to automated android native app. 
 
 ### Pre-requisite/s software installed
