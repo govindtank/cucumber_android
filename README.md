@@ -18,3 +18,5 @@ Note: Start the genymotion virtual device (Samsung Galaxy S6)
 2. execute "adb devices" to check if there is connected devices
 3. execute to connect a devices "adb connect <IP of Genymotion> :5555" (ex. adb connect 192.168.60.101:5555), IP of genymotion devices usually display on top
 4. type "exit" and run again the tests
+  
+Youtube Link: https://youtu.be/R-PL2GeRc04
