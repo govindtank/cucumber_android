@@ -1,4 +1,4 @@
-# Cucumber Android Example Project
+# Cucumber Android Example Project (POM)
 This is a example project to automated android native app. 
 
 ### Pre-requisite/s software installed
